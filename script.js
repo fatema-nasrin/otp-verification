@@ -14,6 +14,8 @@ document.getElementById('generate-pin').addEventListener('click',function(){
     result.value=otpEntry();
 
 })
+
+//otp code
 document.getElementById('digits').addEventListener('click',function(event){
     
     const digit = event.target.innerText;
