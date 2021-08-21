@@ -54,5 +54,3 @@ function codeVerify(){
     }
     document.getElementById('control-input').value='';
 }
-
-
